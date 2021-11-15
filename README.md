@@ -477,7 +477,7 @@ $ sudo service lighttpd force-reload
 
 ### #3: File Transfer Protocol *(FTP)*
 
-#### Step 1: Installing & Configuring FTP
+#### Step 0: Installing & Configuring FTP
 Install FTP via `sudo apt install vsftpd`.
 ```
 $ sudo apt-get install vsftpd
